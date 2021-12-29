@@ -40,6 +40,9 @@ Steps in Data Exploration and Preprocessing
 9.	Correlation Analysis
 10.	Dimensionality Reduction
 
+![image](https://user-images.githubusercontent.com/33411128/147646660-883df529-7964-4a87-95d9-80f11f4fef1f.png)
+
+
 # Further Projects and Contact
 www.researchreader.com
 
